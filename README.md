@@ -1,4 +1,4 @@
-# Complete-Langchain-Series
+# Complete Langchain GEN AI Pack
 This is a complete Langchain GEN AI pack with 6 end To end LLM projects with OPENAI, LLAMA2, Gemini Pro, Gemini Pro Vision.
 This pack contains a series of projects developed as part of the LangChain initiative, demonstrating various applications and use cases leveraging language models and generative AI. Each project is designed to showcase the capabilities of different technologies and platforms.                        
         
